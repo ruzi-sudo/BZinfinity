@@ -39,7 +39,6 @@ const lightRaysProps = computed(() => ({
           <RouterLink to="/contact" class="btn-primary">
             {{ t('hero.cta.primary') }}
           </RouterLink>
-          <p class="btn-secondary">{{ t('hero.cta.secondary') }}</p>
         </div>
 
         <div class="hero-trust">
@@ -263,22 +262,6 @@ const lightRaysProps = computed(() => ({
   }
 }
 
-.btn-secondary {
-  display: inline-flex;
-  align-items: center;
-  background: transparent;
-  color: var(--color-text);
-  text-decoration: none;
-  padding: 0.75rem 1.5rem;
-  font-size: 16px;
-  font-weight: 500;
-  transition: color 0.2s ease;
-
-  &:hover {
-    color: var(--color-primary);
-  }
-}
-
 .hero-trust {
   display: flex;
   flex-direction: column;
@@ -352,12 +335,6 @@ const lightRaysProps = computed(() => ({
     justify-content: center;
   }
 
-  .btn-secondary {
-    width: 100%;
-    text-align: center;
-    justify-content: center;
-  }
-
   .hero-trust {
     margin-top: 16px;
 
@@ -400,8 +377,7 @@ const lightRaysProps = computed(() => ({
     margin-bottom: 18px;
   }
 
-  .btn-primary,
-  .btn-secondary {
+  .btn-primary {
     padding: 0.625rem 1.125rem;
     font-size: 14px;
   }
@@ -434,8 +410,7 @@ const lightRaysProps = computed(() => ({
     margin-bottom: 16px;
   }
 
-  .btn-primary,
-  .btn-secondary {
+  .btn-primary {
     padding: 0.5rem 1rem;
     font-size: 13px;
   }
@@ -468,8 +443,7 @@ const lightRaysProps = computed(() => ({
     margin-bottom: 14px;
   }
 
-  .btn-primary,
-  .btn-secondary {
+  .btn-primary {
     padding: 0.5rem 0.875rem;
     font-size: 12px;
   }

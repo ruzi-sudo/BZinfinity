@@ -6,114 +6,135 @@
     "services": "Services"
   },
   "hero": {
-    "title": "Financial Services That Move With You",
-    "subtitle": "BZ INFINITY is your enterprise-level digital intelligence platform partner. Whether on web or mobile, work smarter with efficiency, stability, and growth.",
+    "title": "Driving Enterprise Digital Intelligence with AI & Cloud-Native Platforms",
+    "subtitle": "BZ INFINITY is committed to providing future-oriented technology infrastructure and intelligent capabilities for enterprises. Through the fusion of AI + Big Data + Cloud-Native Architecture, we help enterprises achieve efficiency improvement, cost optimization, and business growth from data assetization to intelligent decision-making.",
     "cta": {
-      "primary": "Get Started",
-      "secondary": "View Our Process"
+      "primary": "Explore Our Capabilities",
+      "secondary": "Contact Us"
     },
-    "trusted": "Trusted by leading enterprises"
+    "trusted": "Trusted by leading enterprises",
+    "disclaimer": "BZ INFINITY provides technology consulting and system solutions for enterprises. Project implementation results depend on various factors, please make decisions based on your business needs."
   },
   "howItWorks": {
-    "title": "Start Your Digital Transformation in 3 Steps",
+    "title": "Collaboration Process",
     "steps": {
       "consult": {
-        "title": "Consult & Plan",
-        "description": "Contact our consulting team to start your enterprise digital transformation project."
+        "title": "Requirements Clarification",
+        "description": "Define business objectives, determine project scope, identify key metrics, and confirm compliance requirements."
       },
       "develop": {
-        "title": "System Development",
-        "description": "Build tailored solutions based on your requirements."
+        "title": "Solution Design",
+        "description": "Deliver system architecture solutions, technology roadmaps, and project milestones."
       },
       "integrate": {
-        "title": "Integration & Deployment",
-        "description": "Seamlessly integrate and deploy your systems."
+        "title": "Delivery & Implementation",
+        "description": "System development, integration testing, deployment, and project acceptance."
       },
       "operate": {
         "title": "Continuous Operations",
-        "description": "Monitor and optimize your systems continuously."
+        "description": "System monitoring, performance optimization, feature iteration, and security operations."
       }
+    },
+    "demo": {
+      "createAccount": "Submit Your Requirements",
+      "emailAddress": "Email Address",
+      "password": "Password",
+      "getStarted": "Get Started",
+      "generated": "Generated"
+    },
+    "goals": {
+      "savings": "Efficiency",
+      "investments": "Cost Optimization",
+      "expenses": "Business Growth"
+    },
+    "tips": {
+      "tip1": "Enterprise digital maturity assessment",
+      "tip2": "IT and data architecture planning",
+      "tip3": "Technology roadmap design",
+      "tip4": "Phased implementation and delivery",
+      "tip5": "Quantifiable metrics framework",
+      "tip6": "Real business value output"
     }
   },
   "services": {
-    "title": "Powerful Service Capabilities, Seamless Collaboration",
+    "title": "Services & Solutions",
     "features": {
       "investments": {
-        "title": "Smart Investments",
-        "description": "Personalized plans tailored for your secured future investments."
+        "title": "Digital Transformation Solutions",
+        "description": "Help enterprises build complete digital transformation paths starting from business strategy."
       },
       "automation": {
-        "title": "Auto-Savings Rules",
-        "description": "Intelligently execute savings based on your investment behavior."
+        "title": "Intelligent System R&D",
+        "description": "Build explainable, scalable, and continuously optimizable intelligent systems."
       },
       "analytics": {
-        "title": "Spend & Goal Analytics",
-        "description": "Visualize your business movement like never before with us."
+        "title": "Data Governance Framework",
+        "description": "Help enterprises build complete data asset systems for business analysis and real-time decision-making."
       },
       "sync": {
-        "title": "Cross-Platform Sync",
-        "description": "Your operations in sync with all devices — desktop, tablet, and mobile."
+        "title": "Cloud-Native Platform",
+        "description": "Build highly available, scalable technology platforms with long-term stable infrastructure."
       }
     },
     "modern": {
-      "title": "Designed for the Modern Investors",
+      "title": "Core Technology Capabilities",
       "items": {
         "cloud": {
           "title": "Cloud-Native Platform & Engineering Delivery",
-          "description": "Build highly available, scalable enterprise platforms based on modern cloud-native technology."
+          "description": "Microservices architecture, Kubernetes cloud-native platform, high-concurrency system architecture, batch-stream unified data processing, model training and inference platform, full-link observable operations."
         },
         "data": {
           "title": "Data Governance & Analytics System",
-          "description": "Build a complete data asset system to support operational analysis and real-time decision-making."
+          "description": "Data collection and integration, data cleaning and quality management, master data management, data metrics system construction, data middle platform/lakehouse unified platform."
         },
         "ai": {
           "title": "Intelligent System R&D and Integration",
-          "description": "Build explainable, scalable intelligent systems around core business scenarios and integrate deeply with existing systems."
+          "description": "Risk control systems, intelligent recommendation systems, marketing growth models, operational efficiency optimization systems, supporting deep integration with existing business systems."
         },
         "security": {
           "title": "Network Security & Compliance",
-          "description": "Provide security assessment, compliance and continuous security operations to form a detection-protection-response-audit loop."
+          "description": "Network security assessment, penetration testing, vulnerability scanning and remediation, data masking, access control systems, cloud-native security management, providing continuous security operations (SOC) capabilities."
         }
       }
     }
   },
   "testimonials": {
-    "title": "Trusted by Thousands of Users Worldwide"
+    "title": "Trusted by Leading Enterprises Across Industries"
   },
   "security": {
-    "title": "Your Security is Our Commitment",
+    "title": "Security & Compliance is Our Commitment",
     "features": {
       "encryption": {
-        "title": "Bank-Level Security Encryption",
-        "description": "256-bit SSL secure environment"
+        "title": "Enterprise Security Architecture",
+        "description": "Security mechanisms introduced from the architecture design phase"
       },
       "compliance": {
-        "title": "PCI-DSS & GDPR Compliant",
-        "description": "Global level security certifications"
+        "title": "Data Compliance Framework",
+        "description": "Compliant with global data security regulations"
       },
       "monitoring": {
-        "title": "24/7 Threat Monitoring System",
-        "description": "Always-on protection systems monitoring"
+        "title": "Continuous Security Operations",
+        "description": "Detection-Protection-Response-Audit security loop"
       },
       "insurance": {
-        "title": "Insurance Protection For Everything",
-        "description": "Deposit coverage up to $6000"
+        "title": "Reduce Long-term Risk",
+        "description": "Reduce enterprise security risks from the source"
       }
     }
   },
   "cta": {
-    "title": "Manage Your Finances Anytime, Anywhere",
-    "description": "BZ INFINITY is built for global enterprise delivery. Deploy and collaborate securely across regions.",
-    "appStore": "Download on App Store",
-    "googlePlay": "Download on Google Play"
+    "title": "Let Technology Generate Real Business Value",
+    "description": "If you are planning digital transformation, building AI capabilities, or developing enterprise technology platforms, we would be happy to discuss with you.",
+    "appStore": "Technical Consulting",
+    "googlePlay": "Actionable System Solutions"
   },
   "footer": {
     "newsletter": {
-      "title": "Get Weekly Financial Tips & Updates",
+      "title": "Get Latest Technology & Industry Insights",
       "placeholder": "Enter your email",
       "button": "Subscribe Now"
     },
-    "tagline": "Smarter finance starts here",
+    "tagline": "Technology-Driven Enterprise Digital Intelligence",
     "links": {
       "title": "Quick Links",
       "home": "Home",
@@ -131,15 +152,15 @@
       "instagram": "Instagram"
     },
     "copyright": "© 2026 BZ INFINITY. All rights reserved.",
-    "madeBy": "Made by GridsZilla"
+    "madeBy": "Made by BZ INFINITY Team"
   },
   "language": {
     "switch": "Switch language"
   },
   "contact": {
     "title": "Contact Us",
-    "description1": "BZ INFINITY LIMITED and its subsidiary companies form a technology services group, We specialize in artificial intelligence, big data, cloud computing, fintech, and cybersecurity, providing enterprises with digital solutions, intelligent system development, cloud services and infrastructure construction.",
-    "description2": "Our headquarters is located in Hong Kong Island, with subsidiaries in Shanghai, Shenzhen and other major cities. We are gradually establishing branches in Australia, Europe and other regions to build a global localized service network.",
+    "description1": "BZ INFINITY LIMITED is a technology group focused on enterprise-level technology services and digital transformation solutions. The company focuses on core technology areas including Artificial Intelligence (AI), Big Data & Data Governance, Cloud Computing & Cloud-Native Engineering, Financial Technology (FinTech), and Network Security & Data Compliance.",
+    "description2": "The group headquarters is located in Hong Kong, China, with technology teams and delivery centers in Shanghai, Shenzhen, and other locations, continuously improving global delivery capabilities to provide stable and reliable technical support for cross-regional enterprises.",
     "form": {
       "name": "Name",
       "namePlaceholder": "Mr. Chen",
@@ -152,7 +173,7 @@
       "referral": "Friend Referral",
       "social": "Social Media",
       "other": "Other",
-      "notes": "Notes",
+      "notes": "Brief Description",
       "privacyAgree": "By submitting this form, I confirm that I have read and understood",
       "privacyPolicy": "Privacy Policy",
       "submit": "Submit",
@@ -160,161 +181,145 @@
     }
   },
   "about": {
-    "title": "Finance That Moves With You",
-    "cardTitle": "About BZ INFINITY",
-    "cardDescription": "We're building the next generation of financial technology that empowers individuals and businesses to make smarter decisions with AI-driven insights.",
+    "title": "About BZ INFINITY",
+    "cardTitle": "BZ INFINITY LIMITED",
+    "cardDescription": "A technology group focused on enterprise-level technology services and digital transformation solutions, using 'Technology + Scenario + Engineering Delivery' as the core methodology to provide enterprises with complete service systems from strategic consulting to system implementation.",
     "stats": {
-      "users": "Users",
-      "countries": "Countries",
-      "transactions": "Transactions"
+      "users": "Enterprises Served",
+      "countries": "Regions Covered",
+      "transactions": "Successful Projects"
+    },
+    "services": {
+      "title": "Full Lifecycle Services",
+      "items": {
+        "consulting": "Digital Transformation Consulting & Planning",
+        "architecture": "Technology Architecture Design & System R&D",
+        "platform": "Data Platform & Intelligent System Construction",
+        "operation": "System Deployment, Operations & Continuous Optimization",
+        "compliance": "Security & Compliance System Construction"
+      }
+    },
+    "locations": {
+      "title": "Global Delivery Capability",
+      "hq": "HQ: Hong Kong, China",
+      "shanghai": "Shanghai Technology Center",
+      "shenzhen": "Shenzhen Delivery Center"
     }
   },
-  "hero": {
-    "title": "Financial Services That Move With You",
-    "subtitle": "BZ INFINITY is your enterprise-level digital intelligence platform partner. Whether on web or mobile, work smarter with efficiency, stability, and growth.",
-    "cta": {
-      "primary": "Get Started",
-      "secondary": "View Our Process"
-    },
-    "trusted": "Trusted by leading enterprises",
-    "disclaimer": "BZ INFINITY is an AI-powered advice platform. System errors may exist, please refer with caution. You should make your own judgment and bear the related risks."
-  },
   "features": {
-    "headerTitle": "Powerful Features, Seamlessly Connected",
+    "headerTitle": "Core Capabilities",
     "indexFund": {
-      "title": "Index Fund SIP",
-      "description": "Track Nifty 50 and grow with the market over long term.",
-      "risk": "Moderate",
-      "return": "11%",
-      "time": "5+ Yrs"
+      "title": "Artificial Intelligence",
+      "description": "Intelligent investment advisory & recommendation systems, decision support systems, AI risk control engines, real-time risk monitoring and early warning.",
+      "risk": "Financial Risk Control",
+      "return": "Retail Intelligent Marketing",
+      "time": "Manufacturing Predictive Maintenance"
     },
     "smartInvestment": {
-      "title": "Smart Investment Options",
-      "description": "Choose from our carefully curated investment options designed to maximize your returns while minimizing risk."
+      "title": "Big Data & Data Governance",
+      "description": "Data integration and governance, data quality management, master data management, data middle platform construction, supporting user profiling, refined operations, and marketing growth analysis."
     },
     "lowCostSip": {
-      "title": "Low-Cost SIP",
-      "description": "Minimal fees, passive management"
+      "title": "Cloud-Native Architecture",
+      "description": "Microservices platform and high-availability system design"
     },
     "diversified": {
-      "title": "Diversified",
-      "description": "Top companies in single fund"
+      "title": "Real-time Data Processing",
+      "description": "Batch-stream unified data processing capabilities"
     },
     "marketGrowth": {
-      "title": "Market Growth",
-      "description": "Grow with India's economic rise"
+      "title": "Model Training Platform",
+      "description": "Complete AI model training and inference platform"
     },
     "smartSavingRules": {
-      "title": "Smart Saving Rules",
-      "description": "Automate your savings with intelligent rules designed to help you reach your financial goals faster."
+      "title": "Financial Technology Capabilities",
+      "description": "Payment clearing and settlement systems, automated reconciliation, risk identification systems, wealth management SaaS platforms, providing recommendation engines, asset allocation, and portfolio management capabilities."
     },
     "savingRules": {
       "fixedWeekly": {
-        "title": "Fixed Weekly Save",
-        "description": "Save $10 every Friday"
+        "title": "Payment Clearing",
+        "description": "High-performance payment and clearing system"
       },
       "roundUp": {
-        "title": "Round-Up Rule",
-        "description": "Round up every spend to nearest $10/$20"
+        "title": "Automated Reconciliation",
+        "description": "Intelligent account reconciliation system"
       },
       "spendingChallenge": {
-        "title": "Spending Challenge",
-        "description": "Save $50 each day you don't order food"
+        "title": "Risk Identification",
+        "description": "Real-time risk identification and early warning"
       },
       "marketDip": {
-        "title": "Market Dip Save",
-        "description": "Invest $100 when market drops 1%+"
+        "title": "Anti-Fraud System",
+        "description": "Intelligent fraud detection and prevention"
       },
       "endOfWeek": {
-        "title": "End-of-Week Sweep",
-        "description": "Save leftover from weekly budget"
+        "title": "Cross-border Payment",
+        "description": "Multi-region cross-border payment capabilities"
       },
       "payday": {
-        "title": "Payday Save",
-        "description": "Auto-save % when salary credited"
+        "title": "Wealth Management SaaS",
+        "description": "Modular wealth management platform"
       },
       "goalBoost": {
-        "title": "Goal Boost",
-        "description": "Extra save when close to goal"
+        "title": "Asset Management",
+        "description": "Investment portfolio and asset management modules"
       },
       "cashback": {
-        "title": "Cashback Save",
-        "description": "Save all cashback rewards"
+        "title": "Rapid Deployment",
+        "description": "Modular architecture for flexible scaling"
       }
     },
     "aiInsights": {
-      "title": "AI-Powered Insights",
-      "description": "Get personalized financial recommendations powered by advanced AI algorithms to help you make smarter investment decisions."
+      "title": "Network Security Capabilities",
+      "description": "Vulnerability discovery, penetration testing, data security governance, endpoint security and host hardening, providing cloud-native security controls, security monitoring, and security audit capabilities."
     },
     "portfolioAnalytics": {
-      "title": "Portfolio Analytics",
-      "description": "Track your investment performance with real-time analytics and comprehensive reports."
+      "title": "Continuous Security Operations",
+      "description": "Providing Detection → Protection → Response → Audit security loop capabilities."
     }
   },
   "modernInvestors": {
-    "title": "Designed for the Modern Investors",
+    "title": "Why Choose Us",
     "smartPortfolio": {
-      "title": "Smart Portfolio",
-      "description": "AI-powered portfolio management with real-time rebalancing suggestions."
+      "title": "End-to-End Delivery",
+      "description": "From consulting and planning to engineering implementation, to continuous operations and optimization, we provide complete service chain delivery."
     },
     "realtimeTracking": {
-      "title": "Real-time Tracking",
-      "description": "Monitor your investments 24/7 with instant notifications and alerts."
+      "title": "Reusable Technology System",
+      "description": "Modular technology components and mature methodologies enable rapid project deployment and scaling."
     },
     "bankLevelSecurity": {
-      "title": "Bank-level Security",
-      "description": "Your data is protected with enterprise-grade encryption and security."
+      "title": "Engineering Capabilities",
+      "description": "Emphasizing system stability, scalability, observability, and long-term maintainability."
     },
     "communityInsights": {
-      "title": "Community Insights",
-      "description": "Learn from successful investors and share your own strategies."
+      "title": "Security & Compliance First",
+      "description": "Security and compliance mechanisms are introduced at the system architecture design stage to reduce long-term enterprise risks from the source."
     }
   },
-  "howItWorks": {
-    "title": "Start Your Digital Transformation in 3 Steps",
-    "steps": {
-      "consult": {
-        "title": "Consult & Plan",
-        "description": "Contact our consulting team to start your enterprise digital transformation project."
-      },
-      "develop": {
-        "title": "System Development",
-        "description": "Build tailored solutions based on your requirements."
-      },
-      "integrate": {
-        "title": "Integration & Deployment",
-        "description": "Seamlessly integrate and deploy your systems."
-      },
-      "operate": {
-        "title": "Continuous Operations",
-        "description": "Monitor and optimize your systems continuously."
-      }
+  "industries": {
+    "title": "Industry Solutions",
+    "finance": {
+      "title": "Financial Institutions & Wealth Platforms",
+      "features": "Intelligent investment advisory, risk management and compliance, payment clearing and anti-fraud, data governance and business analysis"
     },
-    "demo": {
-      "createAccount": "Create your account",
-      "emailAddress": "Email Address",
-      "password": "Password",
-      "getStarted": "Get Started",
-      "generated": "Generated"
+    "retail": {
+      "title": "Retail & E-commerce",
+      "features": "User behavior analysis, precision marketing, demand forecasting, inventory optimization"
     },
-    "goals": {
-      "savings": "Savings",
-      "investments": "Investments",
-      "expenses": "Expenses"
+    "manufacture": {
+      "title": "Manufacturing",
+      "features": "Predictive maintenance, capacity scheduling optimization, industrial data collection, time-series data analysis"
     },
-    "tips": {
-      "tip1": "Add 50% of food budget, whenever you don't order",
-      "tip2": "Increase SIP from $500/month to $700/month",
-      "tip3": "Move account balance to short term FD",
-      "tip4": "Move 20% savings to low-risk to balance risk",
-      "tip5": "Apply for IPO with 15% plus GMP",
-      "tip6": "Use 5% of your salary in mutual funds and stocks"
+    "crossborder": {
+      "title": "Cross-border Business",
+      "features": "Multi-region cloud deployment, cross-border payment architecture, data security compliance, global technology operations"
     }
   },
   "metadata": {
     "risk": "Risk",
-    "return": "Return",
-    "time": "Time"
+    "return": "Effect",
+    "time": "Cycle"
   },
   "legal": {
     "privacyPolicy": "Privacy Policy",

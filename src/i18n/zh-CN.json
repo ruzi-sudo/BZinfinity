@@ -6,114 +6,135 @@
     "services": "服务能力"
   },
   "hero": {
-    "title": "随时随地，与你同行的金融服务",
-    "subtitle": "BZ INFINITY 是你的企业级数智化平台伙伴。无论网页还是移动端，都能更聪明地效率、稳定与增长。在移动端也能安全、轻松地使用。",
+    "title": "以 AI 与云原生平台，驱动企业数智化升级",
+    "subtitle": "BZ INFINITY 致力于为企业提供面向未来的技术基础设施与智能能力。通过人工智能 + 大数据 + 云原生架构的融合，我们帮助企业从数据资产化到智能决策，实现效率提升、成本优化与业务增长。",
     "cta": {
-      "primary": "开始使用",
-      "secondary": "查看合作流程"
+      "primary": "了解我们的能力",
+      "secondary": "联系我们"
     },
-    "trusted": "深受领先企业信赖"
+    "trusted": "深受领先企业信赖",
+    "disclaimer": "BZ INFINITY 为企业提供技术咨询与系统解决方案。项目实施效果取决于多种因素，请根据自身业务需求做出决策。"
   },
   "howItWorks": {
-    "title": "三步开启企业数智化升级",
+    "title": "合作流程",
     "steps": {
       "consult": {
-        "title": "咨询规划",
-        "description": "联系我们的顾问团队，开启企业数智化升级项目。"
+        "title": "需求澄清",
+        "description": "明确业务目标，确定项目范围，梳理关键指标，确认合规要求。"
       },
       "develop": {
-        "title": "系统研发",
-        "description": "基于您的需求构建定制化解决方案。"
+        "title": "方案设计",
+        "description": "输出系统架构方案、技术路线图与项目里程碑。"
       },
       "integrate": {
-        "title": "集成部署",
-        "description": "无缝集成并部署您的系统。"
+        "title": "交付实施",
+        "description": "系统研发、系统联调、系统上线与项目验收。"
       },
       "operate": {
         "title": "持续运营",
-        "description": "持续监控并优化您的系统。"
+        "description": "系统监控、性能优化、功能迭代与安全运营。"
       }
+    },
+    "demo": {
+      "createAccount": "提交您的需求",
+      "emailAddress": "邮箱地址",
+      "password": "密码",
+      "getStarted": "开始合作",
+      "generated": "已生成"
+    },
+    "goals": {
+      "savings": "效率提升",
+      "investments": "成本优化",
+      "expenses": "业务增长"
+    },
+    "tips": {
+      "tip1": "企业数字化成熟度评估",
+      "tip2": "IT 与数据架构规划",
+      "tip3": "技术路线图设计",
+      "tip4": "分阶段实施与落地",
+      "tip5": "可量化的指标体系",
+      "tip6": "真实业务价值产出"
     }
   },
   "services": {
-    "title": "强大服务能力，无缝协同",
+    "title": "服务与解决方案",
     "features": {
       "investments": {
-        "title": "智能升级",
-        "description": "为你的稳健未来量身定制个性化升级方案。"
+        "title": "数字化解决方案",
+        "description": "帮助企业从业务战略出发，构建完整的数字化转型路径。"
       },
       "automation": {
-        "title": "自动优化规则",
-        "description": "基于你的升级行为智能执行优化。"
+        "title": "智能系统研发",
+        "description": "构建可解释、可扩展、可持续优化的智能系统。"
       },
       "analytics": {
-        "title": "支出与目标分析",
-        "description": "前所未有地可视化你的资金流向。"
+        "title": "数据治理体系",
+        "description": "帮助企业构建完整的数据资产体系，实现经营分析与实时决策。"
       },
       "sync": {
-        "title": "跨平台同步",
-        "description": "你的财务数据在桌面、平板、手机间实时同步。"
+        "title": "云原生平台",
+        "description": "构建高可用、可扩展的技术平台与长期稳定的技术基础设施。"
       }
     },
     "modern": {
-      "title": "现代投资者设计",
+      "title": "核心技术能力",
       "items": {
         "cloud": {
           "title": "云原生平台与工程交付",
-          "description": "基于现代云原生技术，构建高可用、可扩展的企业级平台。"
+          "description": "微服务架构、Kubernetes 云原生平台、高并发系统架构、批流一体数据处理、模型训练与推理平台、全链路可观测运维。"
         },
         "data": {
           "title": "数据治理与数据分析体系",
-          "description": "构建完整数据资产体系，支撑经营分析与实时决策。"
+          "description": "数据采集与集成、数据清洗与质量管理、主数据管理、数据指标体系建设、数据中台/湖仓一体平台。"
         },
         "ai": {
           "title": "智能系统研发与集成",
-          "description": "围绕核心业务场景打造可解释、可扩展的智能系统，并与现有系统深度集成。"
+          "description": "风险控制系统、智能推荐系统、营销增长模型、运营效率优化系统，支持与现有业务系统深度集成。"
         },
         "security": {
           "title": "网络安全与合规",
-          "description": "提供安全评估、合规与持续安全运营，形成检测-防护-响应-审计闭环。"
+          "description": "网络安全评估、渗透测试、漏洞扫描与修复、数据脱敏、访问控制体系、云原生安全管控，提供持续安全运营（SOC）能力。"
         }
       }
     }
   },
   "testimonials": {
-    "title": "受到全球数千用户信赖"
+    "title": "深受各行业领先企业信赖"
   },
   "security": {
-    "title": "你的安全是我们的承诺",
+    "title": "安全与合规是我们的承诺",
     "features": {
       "encryption": {
-        "title": "银行级安全加密",
-        "description": "256位SSL安全环境"
+        "title": "企业级安全架构",
+        "description": "从架构设计阶段即引入安全机制"
       },
       "compliance": {
-        "title": "符合PCI-DSS和GDPR标准",
-        "description": "全球级安全认证"
+        "title": "数据合规体系",
+        "description": "符合全球各地区数据安全法规"
       },
       "monitoring": {
-        "title": "全天候威胁监控系统",
-        "description": "持续运行的保护系统监控"
+        "title": "持续安全运营",
+        "description": "检测-防护-响应-审计安全闭环"
       },
       "insurance": {
-        "title": "一切保险保障",
-        "description": "存款保障最高可达 6000 美元"
+        "title": "降低长期风险",
+        "description": "从源头降低企业安全风险"
       }
     }
   },
   "cta": {
-    "title": "随时随地管理你的财务",
-    "description": "BZ INFINITY 可在你常用的所有设备上使用，随时通过移动端或网页访问。",
-    "appStore": "Download on App Store",
-    "googlePlay": "Download on Google Play"
+    "title": "让技术真正产生业务价值",
+    "description": "如果您正在规划数字化升级、建设 AI 能力或构建企业技术平台，我们很乐意与您交流。",
+    "appStore": "技术咨询建议",
+    "googlePlay": "可落地的系统方案"
   },
   "footer": {
     "newsletter": {
-      "title": "每周获取金融技巧与更新",
-      "placeholder": "请输入你的邮箱",
+      "title": "获取最新技术与行业洞察",
+      "placeholder": "请输入您的邮箱",
       "button": "立即订阅"
     },
-    "tagline": "更智能的金融从这里开始",
+    "tagline": "技术驱动企业数智化升级",
     "links": {
       "title": "快速链接",
       "home": "首页",
@@ -131,28 +152,28 @@
       "instagram": "Instagram"
     },
     "copyright": "© 2026 BZ INFINITY 版权所有",
-    "madeBy": "由 GridsZilla 制作"
+    "madeBy": "由 BZ INFINITY 团队制作"
   },
   "language": {
     "switch": "切换语言"
   },
   "contact": {
     "title": "联系我们",
-    "description1": "BZ INFINITY LIMITED 及其下属公司组成的科技服务集团，深耕人工智能、大数据、云计算、金融科技及网络安全等核心技术领域，为企业提供数字化解决方案、智能系统开发、云服务与基础设施构建等全方位科技服务，助力企业实现数字化转型与数智化升级。",
-    "description2": "集团总部设于香港港岛，在上海、深圳等重要城市设有子公司，未来将逐步增设澳洲、欧洲等区域分支机构,持续搭建覆盖全球主要地区的本地化服务网络。",
+    "description1": "BZ INFINITY LIMITED 是一家专注于企业级技术服务与数字化转型解决方案的科技集团。公司重点布局人工智能（AI）、大数据与数据治理、云计算与云原生工程、金融科技（FinTech）、网络安全与数据合规等核心技术领域。",
+    "description2": "集团总部位于中国香港，并在上海、深圳等地设有技术团队与交付中心，持续完善全球化交付能力，为跨区域企业提供稳定可靠的技术支持。",
     "form": {
       "name": "姓名",
       "namePlaceholder": "陈先生",
       "email": "邮箱",
       "emailPlaceholder": "name{'@'}company.com",
-      "website": "公司网址",
+      "website": "公司网站",
       "websitePlaceholder": "https://www.company.com",
       "channel": "通过什么渠道找到我们？",
       "selectPlaceholder": "请选择...",
       "referral": "朋友推荐",
       "social": "社交媒体",
       "other": "其他",
-      "notes": "备注",
+      "notes": "需求简述",
       "privacyAgree": "提交此内容即表示我确认已阅读并理解",
       "privacyPolicy": "《隐私政策》",
       "submit": "提交",
@@ -160,161 +181,145 @@
     }
   },
   "about": {
-    "title": "与你同行的金融服务",
-    "cardTitle": "关于 BZ INFINITY",
-    "cardDescription": "我们正在构建下一代金融技术，赋能个人和企业通过 AI 驱动的洞察做出更明智的决策。",
+    "title": "关于 BZ INFINITY",
+    "cardTitle": "BZ INFINITY LIMITED",
+    "cardDescription": "专注于企业级技术服务与数字化转型解决方案的科技集团，以「技术 + 场景 + 工程交付」为核心方法论，为企业提供从战略咨询到系统落地的完整服务体系。",
     "stats": {
-      "users": "用户",
-      "countries": "国家",
-      "transactions": "交易"
+      "users": "服务企业",
+      "countries": "覆盖区域",
+      "transactions": "成功项目"
+    },
+    "services": {
+      "title": "服务覆盖全生命周期",
+      "items": {
+        "consulting": "数字化转型咨询与规划",
+        "architecture": "技术架构设计与系统研发",
+        "platform": "数据平台与智能系统建设",
+        "operation": "系统部署、运维与持续优化",
+        "compliance": "安全与合规体系建设"
+      }
+    },
+    "locations": {
+      "title": "全球交付能力",
+      "hq": "总部：中国香港",
+      "shanghai": "上海技术中心",
+      "shenzhen": "深圳交付中心"
     }
   },
-  "hero": {
-    "title": "随时随地，与你同行的金融服务",
-    "subtitle": "BZ INFINITY 是你的企业级数智化平台伙伴。无论网页还是移动端，都能更聪明地效率、稳定与增长。在移动端也能安全、轻松地使用。",
-    "cta": {
-      "primary": "开始使用",
-      "secondary": "查看合作流程"
-    },
-    "trusted": "深受领先企业信赖",
-    "disclaimer": "BZ INFINITY 是一个由 AI 驱动的建议平台。系统可能存在误差，请谨慎参考。请你自行判断并承担相关风险。"
-  },
   "features": {
-    "headerTitle": "强大功能，无缝连接",
+    "headerTitle": "核心能力",
     "indexFund": {
-      "title": "指数基金 SIP",
-      "description": "追踪 Nifty 50，长期跟随市场增长。",
-      "risk": "中等",
-      "return": "11%",
-      "time": "5+ 年"
+      "title": "人工智能",
+      "description": "智能投顾与推荐系统、决策支持系统、AI 风控引擎、实时风险监测与预警。",
+      "risk": "金融风控",
+      "return": "零售智能营销",
+      "time": "制造预测性维护"
     },
     "smartInvestment": {
-      "title": "智能投资选择",
-      "description": "从我们精心策划的投资选项中选择，旨在最大化回报的同时最小化风险。"
+      "title": "大数据与数据治理",
+      "description": "数据集成与治理、数据质量管理、主数据管理、数据中台建设，支撑用户画像、精细化运营与营销增长分析。"
     },
     "lowCostSip": {
-      "title": "低成本 SIP",
-      "description": "最低费用，被动管理"
+      "title": "云原生架构",
+      "description": "微服务平台与高可用系统设计"
     },
     "diversified": {
-      "title": "多元化",
-      "description": "单一基金中的顶级公司"
+      "title": "实时数据处理",
+      "description": "批流一体数据处理能力"
     },
     "marketGrowth": {
-      "title": "市场增长",
-      "description": "跟随印度经济发展"
+      "title": "模型训练平台",
+      "description": "完整的 AI 模型训练与推理平台"
     },
     "smartSavingRules": {
-      "title": "智能储蓄规则",
-      "description": "通过智能规则自动化您的储蓄，帮助您更快实现财务目标。"
+      "title": "金融科技能力",
+      "description": "支付清结算系统、自动化对账、风险识别系统、理财 SaaS 平台，提供推荐引擎、资产配置与投资组合管理能力。"
     },
     "savingRules": {
       "fixedWeekly": {
-        "title": "每周固定储蓄",
-        "description": "每周五存入 10 美元"
+        "title": "支付清结算",
+        "description": "高性能支付与清结算系统"
       },
       "roundUp": {
-        "title": "零钱规则",
-        "description": "将每笔消费向上取整到最接近的 10/20 美元"
+        "title": "自动化对账",
+        "description": "智能化的账务核对系统"
       },
       "spendingChallenge": {
-        "title": "消费挑战",
-        "description": "每天不点外卖时存入 50 美元"
+        "title": "风险识别",
+        "description": "实时风险识别与预警"
       },
       "marketDip": {
-        "title": "市场下跌储蓄",
-        "description": "当市场下跌 1%+ 时投资 100 美元"
+        "title": "反欺诈系统",
+        "description": "智能化的欺诈检测与防护"
       },
       "endOfWeek": {
-        "title": "周末 sweep",
-        "description": "存入每周预算的剩余金额"
+        "title": "跨境支付",
+        "description": "支持多区域跨境支付能力"
       },
       "payday": {
-        "title": "发薪日储蓄",
-        "description": "工资到账时自动存入百分比"
+        "title": "理财 SaaS",
+        "description": "模块化理财管理平台"
       },
       "goalBoost": {
-        "title": "目标 boost",
-        "description": "接近目标时额外储蓄"
+        "title": "资产管理",
+        "description": "投资组合与资产管理模块"
       },
       "cashback": {
-        "title": "返现储蓄",
-        "description": "存入所有返现奖励"
+        "title": "快速部署",
+        "description": "模块化架构灵活扩展"
       }
     },
     "aiInsights": {
-      "title": "AI 驱动的洞察",
-      "description": "通过先进的 AI 算法获取个性化财务建议，帮助您做出更明智的投资决策。"
+      "title": "网络安全能力",
+      "description": "漏洞挖掘、渗透测试、数据安全治理、终端安全与主机加固，提供云原生安全控制、安全监控与安全审计能力。"
     },
     "portfolioAnalytics": {
-      "title": "投资组合分析",
-      "description": "通过实时分析和综合报告追踪您的投资表现。"
+      "title": "持续安全运营",
+      "description": "提供检测→防护→响应→审计的安全闭环能力。"
     }
   },
   "modernInvestors": {
-    "title": "为现代投资者设计",
+    "title": "为什么选择我们",
     "smartPortfolio": {
-      "title": "智能投资组合",
-      "description": "AI 驱动的投资组合管理，提供实时再平衡建议。"
+      "title": "端到端交付",
+      "description": "从咨询规划到工程落地，再到持续运营与优化，我们提供完整服务链路。"
     },
     "realtimeTracking": {
-      "title": "实时追踪",
-      "description": "24/7 监控您的投资，即时通知和提醒。"
+      "title": "可复用技术体系",
+      "description": "模块化技术组件与成熟方法论，使项目可以快速部署与扩展。"
     },
     "bankLevelSecurity": {
-      "title": "银行级安全",
-      "description": "您的数据受到企业级加密和安全保护。"
+      "title": "工程化能力",
+      "description": "强调系统的稳定性、可扩展性、可观测性与长期可维护性。"
     },
     "communityInsights": {
-      "title": "社区洞察",
-      "description": "向成功投资者学习，分享您的策略。"
+      "title": "安全与合规优先",
+      "description": "在系统架构设计阶段即引入安全与合规机制，从源头降低企业长期风险。"
     }
   },
-  "howItWorks": {
-    "title": "三步开启企业数智化升级",
-    "steps": {
-      "consult": {
-        "title": "咨询规划",
-        "description": "联系我们的顾问团队，开启企业数智化升级项目。"
-      },
-      "develop": {
-        "title": "系统研发",
-        "description": "基于您的需求构建定制化解决方案。"
-      },
-      "integrate": {
-        "title": "集成部署",
-        "description": "无缝集成并部署您的系统。"
-      },
-      "operate": {
-        "title": "持续运营",
-        "description": "持续监控并优化您的系统。"
-      }
+  "industries": {
+    "title": "行业解决方案",
+    "finance": {
+      "title": "金融机构与理财平台",
+      "features": "智能投顾与推荐系统、风险管理与合规体系、支付清结算与反欺诈、数据治理与经营分析"
     },
-    "demo": {
-      "createAccount": "创建您的账户",
-      "emailAddress": "邮箱地址",
-      "password": "密码",
-      "getStarted": "开始使用",
-      "generated": "已生成"
+    "retail": {
+      "title": "零售与电商",
+      "features": "用户行为分析、精准营销、需求预测、库存优化"
     },
-    "goals": {
-      "savings": "储蓄",
-      "investments": "投资",
-      "expenses": "支出"
+    "manufacture": {
+      "title": "制造业",
+      "features": "预测性维护、产能调度优化、工业数据采集、时序数据分析"
     },
-    "tips": {
-      "tip1": "每次不点外卖时，将食物预算的 50% 存入",
-      "tip2": "将 SIP 从每月 500 美元增加到 700 美元",
-      "tip3": "将账户余额转入短期定期存款",
-      "tip4": "将 20% 储蓄转入低风险以平衡风险",
-      "tip5": "申请溢价 15% 的 IPO",
-      "tip6": "将工资的 5% 用于共同基金和股票"
+    "crossborder": {
+      "title": "出海与跨境业务",
+      "features": "多区域云部署、跨境支付架构、数据安全合规、全球化技术运维"
     }
   },
   "metadata": {
     "risk": "风险",
-    "return": "回报",
-    "time": "时间"
+    "return": "效果",
+    "time": "周期"
   },
   "legal": {
     "privacyPolicy": "隐私政策",
