@@ -1,0 +1,324 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "services": "Services"
+  },
+  "hero": {
+    "title": "Financial Services That Move With You",
+    "subtitle": "BZ INFINITY is your enterprise-level digital intelligence platform partner. Whether on web or mobile, work smarter with efficiency, stability, and growth.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "View Our Process"
+    },
+    "trusted": "Trusted by leading enterprises"
+  },
+  "howItWorks": {
+    "title": "Start Your Digital Transformation in 3 Steps",
+    "steps": {
+      "consult": {
+        "title": "Consult & Plan",
+        "description": "Contact our consulting team to start your enterprise digital transformation project."
+      },
+      "develop": {
+        "title": "System Development",
+        "description": "Build tailored solutions based on your requirements."
+      },
+      "integrate": {
+        "title": "Integration & Deployment",
+        "description": "Seamlessly integrate and deploy your systems."
+      },
+      "operate": {
+        "title": "Continuous Operations",
+        "description": "Monitor and optimize your systems continuously."
+      }
+    }
+  },
+  "services": {
+    "title": "Powerful Service Capabilities, Seamless Collaboration",
+    "features": {
+      "investments": {
+        "title": "Smart Investments",
+        "description": "Personalized plans tailored for your secured future investments."
+      },
+      "automation": {
+        "title": "Auto-Savings Rules",
+        "description": "Intelligently execute savings based on your investment behavior."
+      },
+      "analytics": {
+        "title": "Spend & Goal Analytics",
+        "description": "Visualize your business movement like never before with us."
+      },
+      "sync": {
+        "title": "Cross-Platform Sync",
+        "description": "Your operations in sync with all devices — desktop, tablet, and mobile."
+      }
+    },
+    "modern": {
+      "title": "Designed for the Modern Investors",
+      "items": {
+        "cloud": {
+          "title": "Cloud-Native Platform & Engineering Delivery",
+          "description": "Build highly available, scalable enterprise platforms based on modern cloud-native technology."
+        },
+        "data": {
+          "title": "Data Governance & Analytics System",
+          "description": "Build a complete data asset system to support operational analysis and real-time decision-making."
+        },
+        "ai": {
+          "title": "Intelligent System R&D and Integration",
+          "description": "Build explainable, scalable intelligent systems around core business scenarios and integrate deeply with existing systems."
+        },
+        "security": {
+          "title": "Network Security & Compliance",
+          "description": "Provide security assessment, compliance and continuous security operations to form a detection-protection-response-audit loop."
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Thousands of Users Worldwide"
+  },
+  "security": {
+    "title": "Your Security is Our Commitment",
+    "features": {
+      "encryption": {
+        "title": "Bank-Level Security Encryption",
+        "description": "256-bit SSL secure environment"
+      },
+      "compliance": {
+        "title": "PCI-DSS & GDPR Compliant",
+        "description": "Global level security certifications"
+      },
+      "monitoring": {
+        "title": "24/7 Threat Monitoring System",
+        "description": "Always-on protection systems monitoring"
+      },
+      "insurance": {
+        "title": "Insurance Protection For Everything",
+        "description": "Deposit coverage up to $6000"
+      }
+    }
+  },
+  "cta": {
+    "title": "Manage Your Finances Anytime, Anywhere",
+    "description": "BZ INFINITY is built for global enterprise delivery. Deploy and collaborate securely across regions.",
+    "appStore": "Download on App Store",
+    "googlePlay": "Download on Google Play"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Get Weekly Financial Tips & Updates",
+      "placeholder": "Enter your email",
+      "button": "Subscribe Now"
+    },
+    "tagline": "Smarter finance starts here",
+    "links": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact",
+      "404": "404"
+    },
+    "legal": {
+      "title": "Legal Terms"
+    },
+    "social": {
+      "title": "Social Media",
+      "twitter": "X (formerly Twitter)",
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram"
+    },
+    "copyright": "© 2026 BZ INFINITY. All rights reserved.",
+    "madeBy": "Made by GridsZilla"
+  },
+  "language": {
+    "switch": "Switch language"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description1": "BZ INFINITY LIMITED and its subsidiary companies form a technology services group, We specialize in artificial intelligence, big data, cloud computing, fintech, and cybersecurity, providing enterprises with digital solutions, intelligent system development, cloud services and infrastructure construction.",
+    "description2": "Our headquarters is located in Hong Kong Island, with subsidiaries in Shanghai, Shenzhen and other major cities. We are gradually establishing branches in Australia, Europe and other regions to build a global localized service network.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Mr. Chen",
+      "email": "Email",
+      "emailPlaceholder": "name{'@'}company.com",
+      "website": "Company Website",
+      "websitePlaceholder": "https://www.company.com",
+      "channel": "How did you find us?",
+      "selectPlaceholder": "Select...",
+      "referral": "Friend Referral",
+      "social": "Social Media",
+      "other": "Other",
+      "notes": "Notes",
+      "privacyAgree": "By submitting this form, I confirm that I have read and understood",
+      "privacyPolicy": "Privacy Policy",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    }
+  },
+  "about": {
+    "title": "Finance That Moves With You",
+    "cardTitle": "About BZ INFINITY",
+    "cardDescription": "We're building the next generation of financial technology that empowers individuals and businesses to make smarter decisions with AI-driven insights.",
+    "stats": {
+      "users": "Users",
+      "countries": "Countries",
+      "transactions": "Transactions"
+    }
+  },
+  "hero": {
+    "title": "Financial Services That Move With You",
+    "subtitle": "BZ INFINITY is your enterprise-level digital intelligence platform partner. Whether on web or mobile, work smarter with efficiency, stability, and growth.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "View Our Process"
+    },
+    "trusted": "Trusted by leading enterprises",
+    "disclaimer": "BZ INFINITY is an AI-powered advice platform. System errors may exist, please refer with caution. You should make your own judgment and bear the related risks."
+  },
+  "features": {
+    "headerTitle": "Powerful Features, Seamlessly Connected",
+    "indexFund": {
+      "title": "Index Fund SIP",
+      "description": "Track Nifty 50 and grow with the market over long term.",
+      "risk": "Moderate",
+      "return": "11%",
+      "time": "5+ Yrs"
+    },
+    "smartInvestment": {
+      "title": "Smart Investment Options",
+      "description": "Choose from our carefully curated investment options designed to maximize your returns while minimizing risk."
+    },
+    "lowCostSip": {
+      "title": "Low-Cost SIP",
+      "description": "Minimal fees, passive management"
+    },
+    "diversified": {
+      "title": "Diversified",
+      "description": "Top companies in single fund"
+    },
+    "marketGrowth": {
+      "title": "Market Growth",
+      "description": "Grow with India's economic rise"
+    },
+    "smartSavingRules": {
+      "title": "Smart Saving Rules",
+      "description": "Automate your savings with intelligent rules designed to help you reach your financial goals faster."
+    },
+    "savingRules": {
+      "fixedWeekly": {
+        "title": "Fixed Weekly Save",
+        "description": "Save $10 every Friday"
+      },
+      "roundUp": {
+        "title": "Round-Up Rule",
+        "description": "Round up every spend to nearest $10/$20"
+      },
+      "spendingChallenge": {
+        "title": "Spending Challenge",
+        "description": "Save $50 each day you don't order food"
+      },
+      "marketDip": {
+        "title": "Market Dip Save",
+        "description": "Invest $100 when market drops 1%+"
+      },
+      "endOfWeek": {
+        "title": "End-of-Week Sweep",
+        "description": "Save leftover from weekly budget"
+      },
+      "payday": {
+        "title": "Payday Save",
+        "description": "Auto-save % when salary credited"
+      },
+      "goalBoost": {
+        "title": "Goal Boost",
+        "description": "Extra save when close to goal"
+      },
+      "cashback": {
+        "title": "Cashback Save",
+        "description": "Save all cashback rewards"
+      }
+    },
+    "aiInsights": {
+      "title": "AI-Powered Insights",
+      "description": "Get personalized financial recommendations powered by advanced AI algorithms to help you make smarter investment decisions."
+    },
+    "portfolioAnalytics": {
+      "title": "Portfolio Analytics",
+      "description": "Track your investment performance with real-time analytics and comprehensive reports."
+    }
+  },
+  "modernInvestors": {
+    "title": "Designed for the Modern Investors",
+    "smartPortfolio": {
+      "title": "Smart Portfolio",
+      "description": "AI-powered portfolio management with real-time rebalancing suggestions."
+    },
+    "realtimeTracking": {
+      "title": "Real-time Tracking",
+      "description": "Monitor your investments 24/7 with instant notifications and alerts."
+    },
+    "bankLevelSecurity": {
+      "title": "Bank-level Security",
+      "description": "Your data is protected with enterprise-grade encryption and security."
+    },
+    "communityInsights": {
+      "title": "Community Insights",
+      "description": "Learn from successful investors and share your own strategies."
+    }
+  },
+  "howItWorks": {
+    "title": "Start Your Digital Transformation in 3 Steps",
+    "steps": {
+      "consult": {
+        "title": "Consult & Plan",
+        "description": "Contact our consulting team to start your enterprise digital transformation project."
+      },
+      "develop": {
+        "title": "System Development",
+        "description": "Build tailored solutions based on your requirements."
+      },
+      "integrate": {
+        "title": "Integration & Deployment",
+        "description": "Seamlessly integrate and deploy your systems."
+      },
+      "operate": {
+        "title": "Continuous Operations",
+        "description": "Monitor and optimize your systems continuously."
+      }
+    },
+    "demo": {
+      "createAccount": "Create your account",
+      "emailAddress": "Email Address",
+      "password": "Password",
+      "getStarted": "Get Started",
+      "generated": "Generated"
+    },
+    "goals": {
+      "savings": "Savings",
+      "investments": "Investments",
+      "expenses": "Expenses"
+    },
+    "tips": {
+      "tip1": "Add 50% of food budget, whenever you don't order",
+      "tip2": "Increase SIP from $500/month to $700/month",
+      "tip3": "Move account balance to short term FD",
+      "tip4": "Move 20% savings to low-risk to balance risk",
+      "tip5": "Apply for IPO with 15% plus GMP",
+      "tip6": "Use 5% of your salary in mutual funds and stocks"
+    }
+  },
+  "metadata": {
+    "risk": "Risk",
+    "return": "Return",
+    "time": "Time"
+  },
+  "legal": {
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "comingSoon": "Coming soon"
+  }
+}
