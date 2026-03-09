@@ -383,6 +383,7 @@ const { t } = useI18n()
 .features-items>.features-grid-top:nth-child(2) {
   width: 700px;
   max-width: 700px;
+  min-height: 322px;
   // flex-shrink: 0;
   background-color: rgb(4, 5, 11);
   border-radius: 15px;

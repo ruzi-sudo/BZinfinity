@@ -176,7 +176,8 @@ const stopPointerAnimation = () => {
                 <span class="field-value" v-else>{{ passwordValue }}</span>
               </div>
               <div class="submit-button" :class="{ 'is-clicked': isButtonClicked }"
-                @mouseenter="generatedButtonText = t('howItWorks.demo.generated')" @mouseleave="generatedButtonText = t('howItWorks.demo.getStarted')">
+                @mouseenter="generatedButtonText = t('howItWorks.demo.generated')"
+                @mouseleave="generatedButtonText = t('howItWorks.demo.getStarted')">
                 <span>{{ generatedButtonText }}</span>
               </div>
             </div>
@@ -197,12 +198,15 @@ const stopPointerAnimation = () => {
           <div class="step-graphic goals-graphic">
             <div class="goals-container">
               <GoalsCard :label="t('howItWorks.goals.savings')" initial-value="$100" max-value="$600" :progress="20" />
-              <GoalsCard :label="t('howItWorks.goals.investments')" initial-value="$10" max-value="$250" :progress="10" />
+              <GoalsCard :label="t('howItWorks.goals.investments')" initial-value="$10" max-value="$250"
+                :progress="10" />
               <GoalsCard :label="t('howItWorks.goals.expenses')" initial-value="$500" max-value="$100" :progress="80" />
             </div>
           </div>
-          <h3>{{ t('howItWorks.steps.develop.title') }}</h3>
-          <p>{{ t('howItWorks.steps.develop.description') }}</p>
+          <div class="desc">
+            <h3>{{ t('howItWorks.steps.develop.title') }}</h3>
+            <p>{{ t('howItWorks.steps.develop.description') }}</p>
+          </div>
         </div>
 
         <div class="step-card tips-card-container">
@@ -292,11 +296,20 @@ const stopPointerAnimation = () => {
   gap: 21px;
   overflow: hidden;
   align-items: center;
+  justify-content: space-between;
 
   &:hover {
     border-color: rgba(24, 233, 51, 0.2);
     transform: translateY(-4px);
     box-shadow: var(--shadow-md);
+  }
+
+  .desc {
+    text-align: center;
+
+    h3 {
+      margin-bottom: 10%;
+    }
   }
 
   .step-graphic {
@@ -668,6 +681,21 @@ const stopPointerAnimation = () => {
 
     .tips-wrapper {
       gap: 10px;
+    }
+
+    // Mobile auto-play animations (no hover on mobile)
+    .tips-row {
+      animation: scrollTips 20s linear infinite;
+    }
+
+    .tips-row-2 {
+      animation: scrollTips 25s linear infinite reverse;
+    }
+
+    .tips-slide-image {
+      left: 80%;
+      transform: translateX(-50%) translateY(-50%);
+      opacity: 1;
     }
 
     h3 {
